@@ -1,7 +1,7 @@
 # Hi, I'm Andriy Bilous 👋
 
 ## 👨‍💻 About Me
-I'm a **Motivated Software Engineer** actively seeking new opportunities. With **2+ years of experience** in web and mobile development, I've honed my skills as a front-end engineer specializing in **JavaScript**, **TypeScript**, **React**, and **React Native**. My passion for crafting clean, scalable solutions is driven by attention to detail and a solution-oriented mindset.
+I'm a **Motivated Software Engineer** based in Ottawa, ON actively seeking new opportunities. With **2+ years of experience** in web and mobile development, I've honed my skills as a front-end engineer specializing in **JavaScript**, **TypeScript**, **React**, and **React Native**. My passion for crafting clean, scalable solutions is driven by attention to detail and a solution-oriented mindset.
 
 I also bring **3+ years of leadership experience** as an IT branch manager, where I led teams and managed project deliverables. This blend of technical and managerial experience has allowed me to thrive in both autonomous and collaborative environments.
 
@@ -51,19 +51,19 @@ _Self-employed_ | _Jun 2022 - Oct 2022_
 
 ## 📂 Portfolio
 
-### [Stock Management Web App](https://github.com/SaperZP/stock-management)
+### [Stock Management Web App](https://stock-management-b66a9o0ak-andriybs-projects.vercel.app/)
 - **Technologies:** TypeScript, React, Vite, Firebase, MUI, Formik, Axios, Redux
 
-### [Eco Cosmetics Landing Page](https://github.com/SaperZP/eco-cosmetics)
+### [Eco Cosmetics Landing Page](https://saperzp.github.io/Eco_cosmetics/)
 - **Technologies:** JavaScript, React, TypeScript, HTML, CSS, BEM
 
-### [Movie Web App](https://github.com/SaperZP/movie-app)
+### [Movie Web App]([https://github.com/SaperZP/movie-app](https://movie-app-next-git-main-andriybs-projects.vercel.app))
 - **Technologies:** TypeScript, Next.js, Tailwind, Shadcn, React-hook-form
 
-### [Star Wars Favorites Mobile App](https://github.com/SaperZP/star-wars-favorites)
+### [Star Wars Favorites Mobile App](https://github.com/SaperZP/Star-Wars-Favorites-Mobile-Application)
 - **Technologies:** React Native, Redux-toolkit, Redux-persist, Axios, React Native Paper, React Navigation
 
-### [Todo 2 Web Application](https://github.com/SaperZP/todo-2)
+### [Todo 2 Web Application](https://todo-2-9jhq.onrender.com/)
 - **Technologies:** React, TypeScript, Node.js, Redux, GraphQL, Apollo, MongoDB, JWT, MUI
 
 ## 🎓 Education & Training
