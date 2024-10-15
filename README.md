@@ -57,7 +57,7 @@ _Self-employed_ | _Jun 2022 - Oct 2022_
 ### [Eco Cosmetics Landing Page](https://saperzp.github.io/Eco_cosmetics/)
 - **Technologies:** JavaScript, React, TypeScript, HTML, CSS, BEM
 
-### [Movie Web App]([https://github.com/SaperZP/movie-app](https://movie-app-next-git-main-andriybs-projects.vercel.app))
+### [Movie Web App](https://movie-app-next-git-main-andriybs-projects.vercel.app)
 - **Technologies:** TypeScript, Next.js, Tailwind, Shadcn, React-hook-form
 
 ### [Star Wars Favorites Mobile App](https://github.com/SaperZP/Star-Wars-Favorites-Mobile-Application)
