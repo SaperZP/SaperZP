@@ -5,7 +5,6 @@ I'm a **Motivated Software Engineer** based in Ottawa, ON actively seeking new o
 
 I also bring **3+ years of leadership experience** as an IT branch manager, where I led teams and managed project deliverables. This blend of technical and managerial experience has allowed me to thrive in both autonomous and collaborative environments.
 
-- 🌱 I’m currently enhancing my skills through a **Full-stack Development Course** at Clarusway
 - 📫 How to reach me: [Website](https://www.bilous.info) | [Email](mailto:andriy@bilous.info) | [LinkedIn](https://www.linkedin.com/in/andriybilous)
 
 ## 🛠️ Tech Stack & Skills
@@ -67,6 +66,6 @@ _Self-employed_ | _Jun 2022 - Oct 2022_
 - **Technologies:** React, TypeScript, Node.js, Redux, GraphQL, Apollo, MongoDB, JWT, MUI
 
 ## 🎓 Education & Training
-- **Full-stack Development Course** - Clarusway | _Ongoing_
+- **Full-stack Development Course** - Clarusway | _2025_
 - **Front-end Web Development Course** - Mate Academy | _2022_
 - **Master of Law** - National Academy of Internal Affairs, Ukraine | _2011_ (WES Evaluated in 2024)
