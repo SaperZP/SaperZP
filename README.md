@@ -1,7 +1,7 @@
 # Hi, I'm Andriy Bilous 👋
 
 ## 👨‍💻 About Me
-I'm a **Motivated Software Engineer** based in Ottawa, ON actively seeking new opportunities. With **2+ years of experience** in web and mobile development, I've honed my skills as a front-end engineer specializing in **JavaScript**, **TypeScript**, **React**, and **React Native**. My passion for crafting clean, scalable solutions is driven by attention to detail and a solution-oriented mindset.
+I'm a **Software Engineer** based in Ottawa, ON actively seeking new opportunities. With **2+ years of experience** in web and mobile development, I've honed my skills as a front-end engineer specializing in **JavaScript**, **TypeScript**, **React**, and **React Native**. My passion for crafting clean, scalable solutions is driven by attention to detail and a solution-oriented mindset.
 
 I also bring **3+ years of leadership experience** as an IT branch manager, where I led teams and managed project deliverables. This blend of technical and managerial experience has allowed me to thrive in both autonomous and collaborative environments.
 
